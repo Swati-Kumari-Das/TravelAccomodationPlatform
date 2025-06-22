@@ -1,6 +1,6 @@
 # 🌍 Travel Accommodation Website
 
-A full-stack web application inspired by **Airbnb**, where users can **list their own accommodations** or **browse ** stays offered by others. The platform supports secure authentication, rich image uploads, and a review system for better trust and experience.
+A full-stack web application inspired by **Airbnb**, where users can **list their own accommodations** or **browse** stays offered by others. The platform supports secure authentication, rich image uploads, and a review system for better trust and experience.
 
 ## 🚀 Features
 
