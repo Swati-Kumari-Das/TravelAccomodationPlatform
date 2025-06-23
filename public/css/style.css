@@ -120,3 +120,8 @@ body{
 footer {
     margin-top: auto; /* Ensures footer stays at the bottom */
 }
+
+#map{
+    height: 400px;
+    width:80vh;
+ }
