@@ -2,6 +2,8 @@
 
 A full-stack web application inspired by **Airbnb**, where users can **list their own accommodations** or **browse** stays offered by others. The platform supports secure authentication, rich image uploads, and a review system for better trust and experience.
 
+Live Link:https://wanderlust-j4gh.onrender.com/listings
+
 ## 🚀 Features
 
 - 🔐 User authentication with **Passport.js**
